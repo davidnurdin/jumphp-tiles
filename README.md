@@ -1,3 +1,6 @@
+> **⚠️ This repository has moved to [https://git.jumphp.net/jumphp/jumphp-tiles](https://git.jumphp.net/jumphp/jumphp-tiles)** — it is archived here (read-only) and no longer updated.
+> **⚠️ Ce dépôt a déménagé sur [https://git.jumphp.net/jumphp/jumphp-tiles](https://git.jumphp.net/jumphp/jumphp-tiles)** — il est archivé ici (lecture seule) et n'est plus mis à jour.
+
 # Tiles
 
 A JumPHP **engine extension** (docs/extensions.md of JumPHP): a Composer package of type `jumphp-extension`. A game
